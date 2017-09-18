@@ -64,7 +64,7 @@ However, as plain errors don't have CORS headers, it gives this confusing warnin
 
 This information is out of date.
 
-***** [[https://matrix.to/#/@MTRNord:matrix.eclabs.de][MTRNord]] is currently working on adding the necessary i18n infrastructure:
+***** [[https://matrix.to/#/@MTRNord:matrix.ffslfl.net][MTRNord]] is currently working on adding the necessary i18n infrastructure:
 :PROPERTIES:
 :source:   https://matrix.to/#/#riot:matrix.org/%2414900026486026TwjNl:matrix.eclabs.de
 :END:
